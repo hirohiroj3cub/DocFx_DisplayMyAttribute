@@ -1,0 +1,14 @@
+attributeRules:
+- include:
+    uidRegex: ^MyNameSpace
+    type: Namespace
+apiRules:
+- include:
+    uidRegex: ^MyNameSpace
+    type: Namespace
+- include:
+    uidRegex: ^Global
+    type: Namespace
+- exclude:
+    uidRegex: .*
+    type: Namespace

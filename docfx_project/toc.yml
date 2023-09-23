@@ -1,0 +1,7 @@
+- name: Manual
+  href: manuals/
+- name: Scripting API
+  href: api/
+  homepage: api/index.md
+- name: GitHub Repository
+  href: https://github.com/Studio-id-Game/BirdGirl-GlideAction
